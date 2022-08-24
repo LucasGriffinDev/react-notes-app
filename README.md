@@ -8,4 +8,4 @@ notes sorted by last modified
 
 notes stored in local storage.
 
-(Working Demo)[https://lucasgriffindev.github.io/react-notes-app/]
+[Working Demo](https://lucasgriffindev.github.io/react-notes-app/)
